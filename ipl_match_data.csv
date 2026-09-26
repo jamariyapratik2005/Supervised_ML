@@ -1,0 +1,31 @@
+match_id,player_name,player_age,player_role,team,venue,runs_scored,wickets_taken,strike_rate
+1,Virat Kohli,35.0,Batsman,RCB,Chinnaswamy,82.0,0.0,145.5
+2,Rohit Sharma,36.0,Batsman,MI,Wankhede,56.0,0.0,132.8
+3,MS Dhoni,42.0,Wicketkeeper,CSK,Chepauk,45.0,0.0,128.4
+4,Jasprit Bumrah,30.0,Bowler,MI,Wankhede,5.0,3.0,50.0
+5,KL Rahul,31.0,Batsman,LSG,Lucknow,91.0,0.0,158.6
+6,Hardik Pandya,30.0,Allrounder,GT,Ahmedabad,67.0,2.0,175.2
+7,Ravindra Jadeja,35.0,Allrounder,CSK,Chepauk,38.0,1.0,110.5
+8,Suryakumar Yadav,33.0,Batsman,MI,Wankhede,103.0,0.0,195.3
+9,Rishabh Pant,26.0,Wicketkeeper,DC,Kotla,78.0,0.0,162.1
+10,Shubman Gill,24.0,Batsman,,Ahmedabad,,0.0,
+11,Yuzvendra Chahal,33.0,Bowler,RR,Jaipur,2.0,4.0,40.0
+12,Mohammed Siraj,30.0,Bowler,RCB,Chinnaswamy,8.0,,
+13,Shreyas Iyer,29.0,Batsman,,Eden Gardens,,0.0,
+14,Ishan Kishan,25.0,Wicketkeeper,MI,Wankhede,48.0,0.0,135.2
+15,Ruturaj Gaikwad,27.0,Batsman,CSK,Chepauk,62.0,0.0,143.7
+16,Faf du Plessis,,Batsman,RCB,Chinnaswamy,44.0,0.0,122.4
+17,Glenn Maxwell,35.0,Allrounder,RCB,Chinnaswamy,73.0,1.0,185.6
+18,David Warner,37.0,Batsman,,Hyderabad,52.0,0.0,142.1
+19,Jos Buttler,33.0,Wicketkeeper,RR,Jaipur,89.0,0.0,168.9
+20,Rashid Khan,,Bowler,GT,Ahmedabad,12.0,,85.7
+21,Trent Boult,34.0,Bowler,,Wankhede,0.0,2.0,0.0
+22,Pat Cummins,31.0,Bowler,SRH,Hyderabad,15.0,3.0,75.0
+23,Devon Conway,32.0,Batsman,CSK,Chepauk,,0.0,
+24,Sanju Samson,29.0,Wicketkeeper,RR,Jaipur,55.0,0.0,148.3
+25,Axar Patel,,Allrounder,DC,Kotla,31.0,,120.5
+26,Kuldeep Yadav,29.0,Bowler,DC,Kotla,7.0,2.0,58.3
+27,Shikhar Dhawan,,Batsman,PBKS,Mohali,42.0,0.0,124.7
+28,Prithvi Shaw,24.0,Batsman,,Wankhede,,0.0,
+29,Rinku Singh,27.0,Batsman,KKR,Eden Gardens,48.0,0.0,160.0
+30,Yashasvi Jaiswal,22.0,Batsman,RR,Jaipur,78.0,0.0,172.4
